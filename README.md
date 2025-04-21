@@ -16,7 +16,7 @@ I'm a data scientist, neural net builder, and AI explorer — blending code, sta
 - 🤖 **Neural Networks**, **TensorFlow**, **LLMs**
 - 🧮 **Statistics**, **Machine Learning**, **Data Wrangling**
 - 🗃️ **SQL**, **Power BI**, **Data Visualization**
-- 📈 Exploratory analysis, dashboards, time-series, and more
+- 📈 Exploratory data analysis, dashboards, time-series, and more
 
 ---
 
