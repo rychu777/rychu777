@@ -51,7 +51,7 @@ I'm a data scientist, neural net builder, and AI explorer — blending code, sta
 
 ### 💬 Let’s Connect
 
-- 🔗 [LinkedIn](https://pl.linkedin.com/in/piotr-ryszko-2b2229263)
+- 🔗 [LinkedIn](https://pl.linkedin.com/in/piotr-ryszko/)
 - 🧠 [Portfolio / Blog](https://rychu777.com)
 
 ---
