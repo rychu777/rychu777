@@ -35,7 +35,7 @@ I'm a data scientist, neural net builder, and AI explorer — blending code, sta
 
 ### 📌 Featured Projects
 
-- 📊 **[15-min-gamba](https://github.com/rychu777/15-min-gamba)** – Neural Network Classifier to predict the outcome of League of Legends game
+- 📊 **[15-min-gamba](https://github.com/rychu777/15-min-gamba)** – Neural Network Classifier to predict the outcome of League of Legends game.
 - 🤖 **[Promochator in KN SOLVRO](https://github.com/Solvro/ml-promochator)** – A recommendation system based on large language models that helps match students with suitable thesis supervisors.
 - 📉 **[Trajectory Analysis](https://github.com/rychu777/trajectory-analysis)** – The goal of the task is to learn an ML or DNN model that is responsible for multi-class classification of different types of diffusion based on particle 2D trajectories.
 
