@@ -13,7 +13,7 @@ I'm a data scientist, neural net builder, and AI explorer — blending code, sta
 ### 🧠 Core Skills
 
 - 🐍 **Python**, **PyTorch**, **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**
-- 🤖 **Neural Networks**, **TensorFlow**, **LLMs**
+- 🤖 **Neural Networks**, **TensorFlow**, **LLMs**, **CNN**
 - 🧮 **Statistics**, **Machine Learning**, **Data Wrangling**
 - 🗃️ **SQL**, **Power BI**, **Data Visualization**
 - 📈 Exploratory data analysis, dashboards, time-series, and more
